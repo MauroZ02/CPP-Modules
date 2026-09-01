@@ -1,0 +1,11 @@
+- Hola, como estas?
+
++ Bien, vos?
+
+- Yo muy bien, gracias. Como está tu hermano?
+
++ Muy bien. Vi que estuviste viajando.
+
+- No, chau.
+
+~ Nosotro no somos como los Orozco, yo los conozco son ocho los monos.
