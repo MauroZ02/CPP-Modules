@@ -1,4 +1,4 @@
-# 42 C++ Modules
+# C++ Modules
 
 This repository contains my implementations of the **C++ Modules from the 42 Common Core**, together with detailed study notes for each module.
 
